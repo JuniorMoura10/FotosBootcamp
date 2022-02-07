@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="iv_descricao">Imagem selecionada pelo usuário</string>
+    <string name="button_txt">Selecione uma imagem</string>
+</resources>
